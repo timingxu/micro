@@ -1,4 +1,4 @@
-module github.com/micro/examples/blog/comment
+module github.com/xxdawn/micro/examples/blog/comment
 
 go 1.13
 

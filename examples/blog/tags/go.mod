@@ -1,4 +1,4 @@
-module github.com/micro/examples/blog/tags
+module github.com/xxdawn/micro/examples/blog/tags
 
 go 1.13
 

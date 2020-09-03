@@ -5,7 +5,7 @@ This is the Template function
 Generated with
 
 ```
-micro new github.com/micro/examples/template/fnc --namespace=go.micro --alias=template --type=fnc --plugin=registry=etcd
+micro new github.com/xxdawn/micro/examples/template/fnc --namespace=go.micro --alias=template --type=fnc --plugin=registry=etcd
 ```
 
 ## Getting Started

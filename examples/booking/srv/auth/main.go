@@ -5,8 +5,8 @@ import (
 	"errors"
 	"log"
 
-	"github.com/micro/examples/booking/data"
-	"github.com/micro/examples/booking/srv/auth/proto"
+	"github.com/xxdawn/micro/examples/booking/data"
+	"github.com/xxdawn/micro/examples/booking/srv/auth/proto"
 
 	"context"
 	"golang.org/x/net/trace"

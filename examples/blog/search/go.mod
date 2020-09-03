@@ -1,4 +1,4 @@
-module github.com/micro/examples/blog/search
+module github.com/xxdawn/micro/examples/blog/search
 
 go 1.13
 

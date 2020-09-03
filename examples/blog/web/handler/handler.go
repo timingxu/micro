@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	"github.com/lithammer/shortuuid/v3"
-	postsproto "github.com/micro/examples/blog/posts/proto/posts"
-	templ "github.com/micro/examples/blog/web/templates"
+	postsproto "github.com/xxdawn/micro/examples/blog/posts/proto/posts"
+	templ "github.com/xxdawn/micro/examples/blog/web/templates"
 	"github.com/micro/go-micro/v2/client"
 	log "github.com/micro/go-micro/v2/logger"
 )

@@ -8,14 +8,14 @@ import (
 	"math"
 	"time"
 
-	tagProto "github.com/micro/examples/blog/tags/proto/tags"
+	tagProto "github.com/xxdawn/micro/examples/blog/tags/proto/tags"
 
 	"github.com/gosimple/slug"
 	"github.com/micro/go-micro/v2/client"
 	log "github.com/micro/go-micro/v2/logger"
 	"github.com/micro/go-micro/v2/store"
 
-	posts "github.com/micro/examples/blog/posts/proto/posts"
+	posts "github.com/xxdawn/micro/examples/blog/posts/proto/posts"
 )
 
 const (

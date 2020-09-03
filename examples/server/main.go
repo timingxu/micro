@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/micro/examples/server/handler"
-	"github.com/micro/examples/server/subscriber"
+	"github.com/xxdawn/micro/examples/server/handler"
+	"github.com/xxdawn/micro/examples/server/subscriber"
 	"github.com/micro/go-micro/v2/config/cmd"
 	"github.com/micro/go-micro/v2/server"
 )

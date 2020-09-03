@@ -5,7 +5,7 @@ import (
 
 	log "github.com/micro/go-micro/v2/logger"
 
-	comment "github.com/micro/examples/blog/comment/proto/comment"
+	comment "github.com/xxdawn/micro/examples/blog/comment/proto/comment"
 )
 
 type Comment struct{}

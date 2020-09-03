@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	hello "github.com/micro/examples/helloworld/proto"
+	hello "github.com/xxdawn/micro/examples/helloworld/proto"
 	"github.com/micro/go-micro/v2/web"
 	"github.com/micro/go-micro/v2/registry"
 	consul "github.com/micro/go-plugins/registry/consul/v2"

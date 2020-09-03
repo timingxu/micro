@@ -3,7 +3,7 @@ package mock
 import (
 	"context"
 
-	proto "github.com/micro/examples/helloworld/proto"
+	proto "github.com/xxdawn/micro/examples/helloworld/proto"
 	"github.com/micro/go-micro/v2/client"
 )
 

@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	proto "github.com/micro/examples/helloworld/api/proto"
-	hello "github.com/micro/examples/helloworld/proto"
+	proto "github.com/xxdawn/micro/examples/helloworld/api/proto"
+	hello "github.com/xxdawn/micro/examples/helloworld/proto"
 	"github.com/micro/go-micro/v2"
 
 	"context"

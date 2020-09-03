@@ -1,13 +1,13 @@
 package main
 
 import (
-	"github.com/micro/examples/blog/tags/handler"
-	"github.com/micro/examples/blog/tags/subscriber"
+	"github.com/xxdawn/micro/examples/blog/tags/handler"
+	"github.com/xxdawn/micro/examples/blog/tags/subscriber"
 
 	"github.com/micro/go-micro/v2"
 	log "github.com/micro/go-micro/v2/logger"
 
-	tags "github.com/micro/examples/blog/tags/proto/tags"
+	tags "github.com/xxdawn/micro/examples/blog/tags/proto/tags"
 )
 
 func main() {

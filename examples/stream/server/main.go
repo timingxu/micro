@@ -6,7 +6,7 @@ import (
 	"io"
 	"log"
 
-	proto "github.com/micro/examples/stream/server/proto"
+	proto "github.com/xxdawn/micro/examples/stream/server/proto"
 	"github.com/micro/go-micro/v2"
 )
 

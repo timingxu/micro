@@ -272,9 +272,9 @@ github.com/mattn/go-tty v0.0.0-20180219170247-931426f7535a/go.mod h1:XPvLUNfbS4f
 github.com/matttproud/golang_protobuf_extensions v1.0.1/go.mod h1:D8He9yQNgCq6Z5Ld7szi9bcBfOoFv/3dc6xSMkL2PC0=
 github.com/micro/cli/v2 v2.1.2 h1:43J1lChg/rZCC1rvdqZNFSQDrGT7qfMrtp6/ztpIkEM=
 github.com/micro/cli/v2 v2.1.2/go.mod h1:EguNh6DAoWKm9nmk+k/Rg0H3lQnDxqzu5x5srOtGtYg=
-github.com/micro/examples v0.10.0 h1:Vz7pI5+hIchSxc3Ne+Z2ihWR46MZxUrVVIPZ2kNvrM0=
-github.com/micro/examples/helloworld v0.0.0-20200720141632-3eb06fb1774d h1:8+0KzXa7hptkv77MYxPqM4+Wenh+m8ymGdtEbtdwvhI=
-github.com/micro/examples/helloworld v0.0.0-20200720141632-3eb06fb1774d/go.mod h1:nlqKI1/k52fiAf/o+Ryn5qi1VxG+8ojGaT0WMsCLE4M=
+github.com/xxdawn/micro/examples v0.10.0 h1:Vz7pI5+hIchSxc3Ne+Z2ihWR46MZxUrVVIPZ2kNvrM0=
+github.com/xxdawn/micro/examples/helloworld v0.0.0-20200720141632-3eb06fb1774d h1:8+0KzXa7hptkv77MYxPqM4+Wenh+m8ymGdtEbtdwvhI=
+github.com/xxdawn/micro/examples/helloworld v0.0.0-20200720141632-3eb06fb1774d/go.mod h1:nlqKI1/k52fiAf/o+Ryn5qi1VxG+8ojGaT0WMsCLE4M=
 github.com/micro/go-micro v1.18.0 h1:gP70EZVHpJuUIT0YWth192JmlIci+qMOEByHm83XE9E=
 github.com/micro/go-micro/v2 v2.9.1-0.20200719185933-592179c0a260/go.mod h1:niBfOpaZzEw22NJlAtz1CEHocA3qrkzpcTYi0h0d8CE=
 github.com/micro/go-micro/v2 v2.9.1 h1:+S9koIrNWARjpP6k2TZ7kt0uC9zUJtNXzIdZTZRms7Q=

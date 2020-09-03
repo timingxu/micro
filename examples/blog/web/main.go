@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/micro/examples/blog/web/handler"
+	"github.com/xxdawn/micro/examples/blog/web/handler"
 
 	log "github.com/micro/go-micro/v2/logger"
 	"github.com/micro/go-micro/v2/web"

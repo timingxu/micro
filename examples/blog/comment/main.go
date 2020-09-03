@@ -1,12 +1,12 @@
 package main
 
 import (
-	"github.com/micro/examples/blog/comment/handler"
-	"github.com/micro/examples/blog/comment/subscriber"
+	"github.com/xxdawn/micro/examples/blog/comment/handler"
+	"github.com/xxdawn/micro/examples/blog/comment/subscriber"
 	"github.com/micro/go-micro/v2"
 	log "github.com/micro/go-micro/v2/logger"
 
-	comment "github.com/micro/examples/blog/comment/proto/comment"
+	comment "github.com/xxdawn/micro/examples/blog/comment/proto/comment"
 )
 
 func main() {

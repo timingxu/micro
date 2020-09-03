@@ -1,4 +1,4 @@
-module github.com/micro/examples
+module github.com/xxdawn/micro/examples
 
 go 1.13
 
@@ -34,8 +34,8 @@ require (
 	github.com/hailocab/go-geoindex v0.0.0-20160127134810-64631bfe9711
 	github.com/lithammer/shortuuid/v3 v3.0.4 // indirect
 	github.com/micro/cli/v2 v2.1.2
-	github.com/micro/examples/blog/post v0.0.0-20200611104942-3aa40685d492 // indirect
-	github.com/micro/examples/helloworld v0.0.0-20200611083641-71addf7d37de
+	github.com/xxdawn/micro/examples/blog/post v0.0.0-20200611104942-3aa40685d492 // indirect
+	github.com/xxdawn/micro/examples/helloworld v0.0.0-20200611083641-71addf7d37de
 	github.com/micro/go-micro/v2 v2.9.1
 	github.com/micro/go-plugins/broker/grpc/v2 v2.3.0
 	github.com/micro/go-plugins/client/selector/static/v2 v2.3.0

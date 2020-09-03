@@ -4,7 +4,7 @@ package main
 import (
 	"context"
 
-	hello "github.com/micro/examples/greeter/srv/proto/hello"
+	hello "github.com/xxdawn/micro/examples/greeter/srv/proto/hello"
 	"github.com/micro/go-micro/v2"
 	"github.com/micro/go-micro/v2/util/log"
 )

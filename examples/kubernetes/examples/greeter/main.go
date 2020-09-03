@@ -4,8 +4,8 @@ import (
 	"context"
 	"log"
 
-	hello "github.com/micro/examples/greeter/srv/proto/hello"
-	k8s "github.com/micro/examples/kubernetes/go/micro"
+	hello "github.com/xxdawn/micro/examples/greeter/srv/proto/hello"
+	k8s "github.com/xxdawn/micro/examples/kubernetes/go/micro"
 	"github.com/micro/go-micro/v2"
 )
 

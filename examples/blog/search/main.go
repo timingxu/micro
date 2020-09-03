@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/micro/examples/blog/search/handler"
+	"github.com/xxdawn/micro/examples/blog/search/handler"
 	"github.com/micro/go-micro/v2"
 	log "github.com/micro/go-micro/v2/logger"
 
-	search "github.com/micro/examples/blog/search/proto/search"
+	search "github.com/xxdawn/micro/examples/blog/search/proto/search"
 )
 
 func main() {
